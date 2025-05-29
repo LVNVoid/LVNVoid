@@ -1,6 +1,6 @@
 <div align="center">
-  <h1>Hello World! 👋 I'm LVNVoid</h1>
-  <h3>Informatics Engineering Student | Web Developer</h3>
+  <h1>Hi mate!👋 I'm Elvien</h1>
+  <h3>Web Developer</h3>
 </div>
 
 ## 👨‍💻 About Me
