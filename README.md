@@ -33,8 +33,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=LVNVoid&theme=tokyonight" alt="LVNVoid's streak stats" />
 </p>
 
-## 🤝 Let's Connect!
-
 <p align="center">
   <a href="https://twitter.com/lvnap_" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
@@ -52,5 +50,3 @@
   <b>Profile Views</b><br>
   <img src="https://profile-counter.glitch.me/LVNVoid/count.svg" />
 </div>
-
-<p align="center">💡 <i>Learning and growing every day!</i></p>
