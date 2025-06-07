@@ -105,10 +105,10 @@ const elvien = {
 
 <div align="center">
   <a href="https://github.com/LVNVoid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LVNVoid&repo=your-awesome-project&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LVNVoid&repo=SPLD-Server&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
   <a href="https://github.com/LVNVoid">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LVNVoid&repo=another-cool-project&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=LVNVoid&repo=e-portfolio-ft-unimma&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
   </a>
 </div>
 
