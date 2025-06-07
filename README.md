@@ -1,6 +1,6 @@
 <!-- README.md -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=Elvien%20%F0%9F%91%8B%F0%9F%8F%BB&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=300&section=header&text=大家好!%20%F0%9F%91%8B%F0%9F%8F%BB&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Tech%20Enthusiast&descAlignY=51&descAlign=50" />
 </div>
 
 <div align="center">
