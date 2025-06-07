@@ -34,6 +34,7 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)  
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)  
 ![Express](https://img.shields.io/badge/-Express.js-303030?style=flat-square&logo=express&logoColor=white)  
+
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)  
 ![Zustand](https://img.shields.io/badge/-Zustand-000?style=flat-square&logo=zustand&logoColor=white)
