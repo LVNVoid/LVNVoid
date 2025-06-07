@@ -21,16 +21,13 @@
 - 💻 Focused on **Full Stack Web Development**
 - 🌱 Currently mastering **TypeScript** and **Next.js**
 - 🚀 Passionate about building innovative web applications
-- 🔍 Exploring **AI/ML integration** in web development
 - 🎨 Love creating beautiful **UI/UX** experiences
 - ⚡ Fun fact: I debug with console.log and I'm not ashamed! 😄
-- 🌟 **2024 Goal**: Contribute to more open source projects
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🛠 Tech Stack & Tools
 
-<details>
 <summary><b>🚀 Languages & Frameworks</b></summary>
 <br>
 
@@ -48,7 +45,6 @@
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,git,vercel,vscode,figma" />
 </p>
-</details>
 
 **Traditional Badges (Still Cool!)**
 
