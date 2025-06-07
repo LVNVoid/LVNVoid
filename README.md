@@ -33,6 +33,8 @@
 ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/-Next.js-000?style=flat-square&logo=next.js)
 ![Express](https://img.shields.io/badge/-Express.js-303030?style=flat-square&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TalwindCSS-303030?style=flat-square&logo=tailwindcss&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-303030?style=flat-square&logo=zustand&logoColor=white)
 
 **Tools & Platforms**
   
