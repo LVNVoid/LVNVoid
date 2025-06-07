@@ -125,7 +125,7 @@ const elvien = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
-  <h3>🐍 Watch my contributions get eaten by the snake!</h3>
+  <h3>🐍 Is this Python? 😱</h3>
   <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
