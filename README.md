@@ -32,16 +32,19 @@
 <br>
 
 **Programming Languages**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css" />
 </p>
 
 **Frameworks & Libraries**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,nextjs,express,laravel,tailwind,nodejs" />
 </p>
 
 **Databases & Tools**
+
 <p align="left">
   <img src="https://skillicons.dev/icons?i=postgres,mysql,supabase,prisma,git,vercel,vscode,figma" />
 </p>
@@ -64,6 +67,7 @@
 </div>
 
 ### 🏆 GitHub Trophies
+
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LVNVoid&theme=discord&no-frame=true&no-bg=true&margin-w=4&row=1" />
 </div>
@@ -74,15 +78,15 @@
 
 ```javascript
 const elvien = {
-    currentlyLearning: ["AI/ML Integration", "Microservices", "DevOps"],
-    askMeAbout: ["Web Dev", "React", "TypeScript", "UI/UX", "Tech"],
-    technologies: {
-        frontEnd: ["React", "Next.js", "TypeScript", "TailwindCSS"],
-        backEnd: ["Node.js", "Express", "Laravel", "PHP"],
-        databases: ["PostgreSQL", "MySQL", "Supabase"],
-        tools: ["Git", "Vercel", "Prisma", "VS Code"]
-    },
-    funFact: "I think in components and dream in TypeScript! 🤓"
+  currentlyLearning: ["AI/ML Integration", "Microservices", "DevOps"],
+  askMeAbout: ["Web Dev", "React", "TypeScript", "UI/UX", "Tech"],
+  technologies: {
+    frontEnd: ["React", "Next.js", "TypeScript", "TailwindCSS"],
+    backEnd: ["Node.js", "Express", "Laravel", "PHP"],
+    databases: ["PostgreSQL", "MySQL", "Supabase"],
+    tools: ["Git", "Vercel", "Prisma", "VS Code"],
+  },
+  funFact: "I think in components and dream in TypeScript! 🤓",
 };
 ```
 
@@ -122,7 +126,7 @@ const elvien = {
 
 <div align="center">
   <h3>🐍 Watch my contributions get eaten by the snake!</h3>
-  <img src="https://github.com/LVNVoid/LVNVoid/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
@@ -138,6 +142,7 @@ const elvien = {
 </div>
 
 ---
+
 <div align="center">
   <sub>⭐ From <a href="https://github.com/LVNVoid">LVNVoid</a> - Made with ❤️ and lots of ☕</sub>
 </div>
