@@ -32,7 +32,7 @@
 **Programming Languages**
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,html,css" />
 </p>
 
 **Frameworks & Libraries**
@@ -76,7 +76,7 @@
 
 ```javascript
 const elvien = {
-  currentlyLearning: ["AI/ML Integration", "Microservices", "DevOps"],
+  currentlyLearning: ["AI/ML Integration", "UI/UX Design"],
   askMeAbout: ["Web Dev", "React", "TypeScript", "UI/UX", "Tech"],
   technologies: {
     frontEnd: ["React", "Next.js", "TypeScript", "TailwindCSS"],
