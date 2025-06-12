@@ -20,6 +20,7 @@
 - 🚀 Passionate about building innovative web applications
 - 🎨 Love creating beautiful **UI/UX** experiences
 - ⚡ Fun fact: I debug with console.log and I'm not ashamed! 😄
+- 📌 Jakarta, Indonesia 🇮🇩
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
