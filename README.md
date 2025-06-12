@@ -7,15 +7,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06DF9B&center=true&width=600&lines=Building+the+future+with+code+%F0%9F%9A%80;TypeScript+%2B+Next.js+Developer;Always+learning+something+new+%F0%9F%8C%B1;Clean+code+enthusiast+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250" />
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 🎓 Studying **Informatics Engineering**
 - 💻 Focused on **Full Stack Web Development**
