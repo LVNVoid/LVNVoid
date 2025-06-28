@@ -34,13 +34,13 @@ const elvien: Developer = {
 <img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,php&theme=dark" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,scss,figma&theme=dark" />
 
 ### 🧰 Backend & Database
 <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgresql,mysql&theme=dark" />
 
 ### 🔧 Tools & Platform
-<img src="https://skillicons.dev/icons?i=git,vscode,vercel,supabase,prisma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,vscode,vercel,supabase,firebase,prisma&theme=dark" />
 
 </div>
 
