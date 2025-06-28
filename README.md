@@ -65,18 +65,18 @@ const elvien: Developer = {
   <table>
     <tr>
       <td width="50%">
-        <h3 align="center">🔥 SPLD Server</h3>
+        <h3 align="center">🔥 WalletWhiz</h3>
         <p align="center">
-          <a href="https://github.com/LVNVoid/SPLD-Server">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=LVNVoid&repo=SPLD-Server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" />
+          <a href="https://github.com/LVNVoid/walletwhiz">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=LVNVoid&repo=walletwhiz&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" />
           </a>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">🎓 E-Portfolio Platform</h3>
+        <h3 align="center">🎓 SPLD</h3>
         <p align="center">
-          <a href="https://github.com/LVNVoid/e-portfolio-ft-unimma">
-            <img src="https://github-readme-stats.vercel.app/api/pin/?username=LVNVoid&repo=e-portfolio-ft-unimma&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" />
+          <a href="https://github.com/LVNVoid/SPLD-Client">
+            <img src="https://github-readme-stats.vercel.app/api/pin/?username=LVNVoid&repo=SPLD-Client&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" />
           </a>
         </p>
       </td>
