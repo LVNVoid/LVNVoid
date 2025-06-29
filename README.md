@@ -1,30 +1,14 @@
 
-<h1 align="center">Hi, I'm Elvien 👋</h1>
-<p align="center">💻 Full Stack Developer | 🎨 UI/UX Enthusiast | 🇮🇩 Jakarta, Indonesia</p>
-
 <div align="left">
+  
+Hi there, I'm Elvien, A **seasoned software engineer** based in Jakarta, Indonesia 🇮🇩, with a deep passion for crafting **elegant and efficient solutions through code**.
 
-```ts
-interface Developer {
-  name: string;
-  role: string;
-  location: string;
-  currentFocus: string[];
-  codeStyle: string;
-}
+My expertise lies in **JavaScript** and **TypeScript**, coupled with a comprehensive understanding of various **frontend libraries and frameworks**. I thrive on navigating the ever-evolving landscape of web development with enthusiasm and dedication.
 
-const elvien: Developer = {
-  name: "Elvien",
-  role: "Full Stack Developer",
-  location: "Jakarta, Indonesia 🇮🇩",
-  currentFocus: ["TypeScript", "Next.js", "UI/UX Design"],
-  codeStyle: "Clean, Efficient, Scalable"
-};
-```
+As a **fast learner** and **adaptive thinker**, I flourish in dynamic environments where innovation is the driving force. I'm a collaborative team player, always ready to contribute my technical prowess and value every team member's input with a humble attitude.
 
 </div>
 
----
 
 ## 🛠️ Tech Stack
 
