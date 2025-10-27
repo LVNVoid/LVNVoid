@@ -3,11 +3,11 @@
 ---
 
 <div align="left">
-A **seasoned software engineer** based in Jakarta, Indonesia 🇮🇩, I'm deeply passionate about crafting **elegant and efficient solutions through code**.
+I’m a passionate and detail-oriented fresh graduate in Informatics Engineering based in South Tangerang, Indonesia, with a strong enthusiasm for crafting clean and efficient web solutions through code.
 
-My expertise shines in **JavaScript**, backed by a comprehensive understanding of various **frontend libraries and frameworks**. I genuinely thrive on navigating the ever-evolving landscape of web development with enthusiasm and dedication.
+My main focus is on JavaScript and modern frontend libraries and frameworks, where I enjoy building responsive, user-friendly interfaces and learning new technologies along the way.
 
-As a **fast learner** and **adaptive thinker**, I flourish in dynamic environments where innovation is the driving force. I'm a collaborative team player, always ready to contribute my technical prowess and value every team member's input with a humble attitude.
+As a fast learner and adaptive thinker, I thrive in dynamic environments that encourage creativity and continuous improvement. I value collaboration, open communication, and always aim to contribute positively to any development team I’m part of.
 </div>
 
 ---
