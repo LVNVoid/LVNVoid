@@ -5,7 +5,7 @@
 <div align="left">
 A **seasoned software engineer** based in Jakarta, Indonesia 🇮🇩, I'm deeply passionate about crafting **elegant and efficient solutions through code**.
 
-My expertise shines in **JavaScript** and **TypeScript**, backed by a comprehensive understanding of various **frontend libraries and frameworks**. I genuinely thrive on navigating the ever-evolving landscape of web development with enthusiasm and dedication.
+My expertise shines in **JavaScript**, backed by a comprehensive understanding of various **frontend libraries and frameworks**. I genuinely thrive on navigating the ever-evolving landscape of web development with enthusiasm and dedication.
 
 As a **fast learner** and **adaptive thinker**, I flourish in dynamic environments where innovation is the driving force. I'm a collaborative team player, always ready to contribute my technical prowess and value every team member's input with a humble attitude.
 </div>
@@ -17,7 +17,7 @@ As a **fast learner** and **adaptive thinker**, I flourish in dynamic environmen
 <div align="left">
 
 ### 🧠 Languages & Core
-<img src="https://skillicons.dev/icons?i=typescript,javascript,html,css,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,html,css,php&theme=dark" />
 
 ### 🎨 Frontend
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,scss,figma&theme=dark" />
