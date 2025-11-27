@@ -13,13 +13,13 @@ I’m a passionate and detail-oriented Informatics Engineering graduate based in
 <div align="left">
 
 ### 🧠 Languages & Core
-<img src="https://skillicons.dev/icons?i=javascript,html,css,php&theme=dark" />
+<img src="https://skillicons.dev/icons?i=javascript,html,css&theme=dark" />
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,scss,figma&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind&theme=dark" />
 
 ### 🧰 Backend & Database
-<img src="https://skillicons.dev/icons?i=nodejs,express,laravel,postgresql,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,postgresql,mysql&theme=dark" />
 
 ### 🔧 Tools & Platform
 <img src="https://skillicons.dev/icons?i=git,vscode,vercel,supabase,firebase,prisma&theme=dark" />
