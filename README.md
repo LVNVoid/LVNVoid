@@ -3,9 +3,7 @@
 ---
 
 <div align="left">
-I’m a passionate and detail-oriented fresh graduate in Informatics Engineering based in South Tangerang, Indonesia, with a strong enthusiasm for crafting clean and efficient web solutions through code.
-My main focus is on JavaScript and modern frontend libraries and frameworks, where I enjoy building responsive, user-friendly interfaces and learning new technologies along the way.
-As a fast learner and adaptive thinker, I thrive in dynamic environments that encourage creativity and continuous improvement. I value collaboration, open communication, and always aim to contribute positively to any development team I’m part of.
+I’m a passionate and detail-oriented Informatics Engineering graduate based in South Tangerang, Indonesia, specializing in JavaScript and modern frontend frameworks. I enjoy building clean, responsive, and user-focused web interfaces while continuously exploring new technologies. As a fast learner with strong adaptability, I thrive in collaborative environments and strive to contribute meaningful impact to every development team I join.
 </div>
 
 ---
