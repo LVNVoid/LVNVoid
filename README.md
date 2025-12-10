@@ -31,17 +31,11 @@ I’m a passionate and detail-oriented Informatics Engineering graduate based in
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LVNVoid&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LVNVoid&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LVNVoid&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LVNVoid&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LVNVoid&theme=tokyonight&utcOffset=7" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LVNVoid&theme=nightowl" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LVNVoid&theme=nightowl" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LVNVoid&theme=nightowl" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LVNVoid&theme=nightowl&utcOffset=7" />
 </div>
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/LVNVoid?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia/Jakarta" />
-</div>
-
 
 ---
 
