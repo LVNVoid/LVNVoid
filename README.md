@@ -31,12 +31,17 @@ I’m a passionate and detail-oriented Informatics Engineering graduate based in
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LVNVoid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVNVoid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff" />
+  <img width="49%" 
+    src="https://github-readme-stats.vercel.app/api?username=LVNVoid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&cache_seconds=3600" />
+
+  <img width="49%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVNVoid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&cache_seconds=3600" />
 </div>
 
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LVNVoid&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=764ba2" />
+  <img 
+    src="https://streak-stats.demolab.com?user=LVNVoid&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=764ba2" />
 </div>
 
 ---
