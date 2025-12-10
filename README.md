@@ -31,18 +31,17 @@ I’m a passionate and detail-oriented Informatics Engineering graduate based in
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img width="49%" 
-    src="https://github-readme-stats.vercel.app/api?username=LVNVoid&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&icon_color=764ba2&text_color=ffffff&cache_seconds=3600" />
-
-  <img width="49%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LVNVoid&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=667eea&text_color=ffffff&cache_seconds=3600" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LVNVoid&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LVNVoid&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LVNVoid&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=LVNVoid&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=LVNVoid&theme=tokyonight&utcOffset=7" />
 </div>
-
 
 <div align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=LVNVoid&theme=tokyonight&hide_border=true&background=0D1117&stroke=667eea&ring=764ba2&fire=667eea&currStreakLabel=764ba2" />
+  <img src="https://metrics.lecoq.io/LVNVoid?template=classic&base=header,activity,community,repositories,metadata&config.timezone=Asia/Jakarta" />
 </div>
+
 
 ---
 
